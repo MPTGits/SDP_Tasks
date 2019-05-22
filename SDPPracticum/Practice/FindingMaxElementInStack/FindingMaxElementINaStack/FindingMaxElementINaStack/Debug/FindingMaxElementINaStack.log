@@ -1,0 +1,3 @@
+﻿  FindingMaxElementINaStack.cpp
+c:\users\az\desktop\sdp\sdppracticum\practice\findingmaxelementinstack\findingmaxelementinastack\findingmaxelementinastack\stackimplbythegod.h(134): warning C4715: 'LinkedStackImpl<int>::pop': not all control paths return a value
+  FindingMaxElementINaStack.vcxproj -> C:\Users\AZ\Desktop\SDP\SDPPracticum\Practice\FindingMaxElementInStack\FindingMaxElementINaStack\Debug\FindingMaxElementINaStack.exe

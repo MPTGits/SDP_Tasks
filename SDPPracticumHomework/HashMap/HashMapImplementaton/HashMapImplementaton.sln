@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HashMapImplementaton", "HashMapImplementaton\HashMapImplementaton.vcxproj", "{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}.Debug|x64.ActiveCfg = Debug|x64
+		{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}.Debug|x64.Build.0 = Debug|x64
+		{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}.Debug|x86.Build.0 = Debug|Win32
+		{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}.Release|x64.ActiveCfg = Release|x64
+		{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}.Release|x64.Build.0 = Release|x64
+		{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}.Release|x86.ActiveCfg = Release|Win32
+		{416E6DF2-FB74-4D54-A030-C5B99B0D0AEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20275D86-3175-4160-8D3F-13DC5C84F28C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+5
+7
+0 4=>Connection successful at time:5
+4 2=>Connection successful at time:7
+3 1=>Connection successful at time:10
+2 0=>Connection successful at time:11
+1 4=>Connection successful at time:13
+2 3=>Connection successful at time:15
+2 4=>Connection successful at time:16
+Full connectivity time is:13

@@ -1,0 +1,4 @@
+﻿  PolishNotationTreeTask.cpp
+c:\users\az\source\repos\polishnotationtreetask\polishnotationtreetask\exprtobintree.h(52): warning C4101: 'value2': unreferenced local variable
+c:\users\az\source\repos\polishnotationtreetask\polishnotationtreetask\exprtobintree.h(52): warning C4101: 'value1': unreferenced local variable
+  PolishNotationTreeTask.vcxproj -> C:\Users\AZ\source\repos\PolishNotationTreeTask\Debug\PolishNotationTreeTask.exe

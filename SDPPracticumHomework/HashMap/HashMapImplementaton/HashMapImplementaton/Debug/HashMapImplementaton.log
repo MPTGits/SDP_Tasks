@@ -1,0 +1,61 @@
+﻿  HashMapImplementaton.cpp
+c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(9): warning C4101: 'num': unreferenced local variable
+c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(97): warning C4018: '>': signed/unsigned mismatch
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(96): note: while compiling class template member function 'void HashMap<int,std::string>::add(K,V)'
+          with
+          [
+              K=int,
+              V=std::string
+          ]
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(164): note: see reference to function template instantiation 'void HashMap<int,std::string>::add(K,V)' being compiled
+          with
+          [
+              K=int,
+              V=std::string
+          ]
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(161): note: see reference to class template instantiation 'HashMap<int,std::string>' being compiled
+c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(113): warning C4018: '<': signed/unsigned mismatch
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(110): note: while compiling class template member function 'void HashMap<int,std::string>::remove(K)'
+          with
+          [
+              K=int
+          ]
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(183): note: see reference to function template instantiation 'void HashMap<int,std::string>::remove(K)' being compiled
+          with
+          [
+              K=int
+          ]
+c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(124): warning C4018: '<': signed/unsigned mismatch
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(122): note: while compiling class template member function 'std::string HashMap<int,std::string>::find(K)'
+          with
+          [
+              K=int
+          ]
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(170): note: see reference to function template instantiation 'std::string HashMap<int,std::string>::find(K)' being compiled
+          with
+          [
+              K=int
+          ]
+c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(150): warning C4018: '<': signed/unsigned mismatch
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(148): note: while compiling class template member function 'int HashMap<int,std::string>::size(void) const'
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(167): note: see reference to function template instantiation 'int HashMap<int,std::string>::size(void) const' being compiled
+c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(85): warning C4018: '<': signed/unsigned mismatch
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(77): note: while compiling class template member function 'void HashMap<int,std::string>::resize(void)'
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(98): note: see reference to function template instantiation 'void HashMap<int,std::string>::resize(void)' being compiled
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(96): note: while compiling class template member function 'void HashMap<int,std::string>::add(K,V)'
+          with
+          [
+              K=int,
+              V=std::string
+          ]
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(164): note: see reference to function template instantiation 'void HashMap<int,std::string>::add(K,V)' being compiled
+          with
+          [
+              K=int,
+              V=std::string
+          ]
+c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(70): warning C4018: '<': signed/unsigned mismatch
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(68): note: while compiling class template member function 'int HashMap<std::string,std::string>::hashFunc(std::string)'
+  c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(106): note: see reference to function template instantiation 'int HashMap<std::string,std::string>::hashFunc(std::string)' being compiled
+c:\users\az\desktop\computer science year 2\sdp\sdppracticumhomework\hashmap\hashmapimplementaton\hashmapimplementaton\hashmap.h(71): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  HashMapImplementaton.vcxproj -> C:\Users\AZ\Desktop\Computer Science year 2\SDP\SDPPracticumHomework\HashMap\HashMapImplementaton\Debug\HashMapImplementaton.exe
